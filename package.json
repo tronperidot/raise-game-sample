@@ -1,0 +1,24 @@
+{
+  "name": "raise-game-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tronperidot/raise-game-sample.git"
+  },
+  "author": "tronperidot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tronperidot/raise-game-sample/issues"
+  },
+  "homepage": "https://github.com/tronperidot/raise-game-sample#readme"
+}
